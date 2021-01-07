@@ -1,6 +1,6 @@
 # wordpress-docker-starter
 
-A simple starter project for a Docker contained WordPress project.
+A simple starter for a Docker contained WordPress project.
 
 ## Requirements
 
